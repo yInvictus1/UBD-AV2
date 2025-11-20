@@ -76,6 +76,11 @@ Para rodar os notebooks ou scripts localmente:
 git clone https://github.com/SEU_USUARIO/minimundos-analise-dados.git
 cd minimundos-analise-dados
 
+# Instale as dependências
+pip install pandas seaborn matplotlib
+
+# Execute no ambiente de sua preferência (ex: Jupyter Notebook, VSCode ou Google Colab)
+````
 ## Integrantes
 
 - Diego Rosa  
@@ -85,7 +90,3 @@ cd minimundos-analise-dados
 - Camila Barcelos  
 
 
-# Instale as dependências
-pip install pandas seaborn matplotlib
-
-# Execute no ambiente de sua preferência (ex: Jupyter Notebook, VSCode ou Google Colab)
